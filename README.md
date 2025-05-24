@@ -3,7 +3,7 @@
 
 An **MEVN** (MongoDB • Express • Vue 3 + Nuxt • Node.js) application that:
 
-* Fetches the 30 most recent SpaceX launches (*API:* https://api.spacexdata.com/v4/launches/query)
+* Fetches the 30 most recent SpaceX launches (*API:* https://api.spacexdata.com/v4/launches)
 * Lets you **Save** your favourites
 * Displays saved launches in a separate view
 
