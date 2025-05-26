@@ -159,7 +159,8 @@ Neura-Technical-Task/
 3. **Saved Launches**
    Click **Go to Saved Launches** (or visit `/screen2`) to view your favourites.
    Remove any entry with the **Remove** button.
-   <img width="1709" alt="Screen2" src="https://github.com/user-attachments/assets/57af9228-69d5-4b43-a459-efcb45320f9a" />
+   <img width="1709" alt="Screen2" src="https://github.com/user-attachments/assets/2d5c4c37-4178-4399-87d9-bae835d90e0a" />
+
 
 
 ## Developer's Declaration
