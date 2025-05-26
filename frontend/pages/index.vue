@@ -33,7 +33,7 @@ function formatDate(d: string): string {
             {{ store.loading ? 'Loading…' : 'Refresh' }}
         </button>
 
-        <table class="border">
+        <table class="border table-width">
             <thead class="bg-gray">
                 <tr>
                     <th class="py-2 border">Flight No.</th>
@@ -63,6 +63,9 @@ function formatDate(d: string): string {
 
 <style src="./styles.css" />
 <style scoped>
+.table-width {
+    min-width: 100%;
+}
 .hover\:bg-gray:hover {
     background-color: #fafafa;
 }
